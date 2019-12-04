@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\Agarkov.TheoryOfAuthomats\Agarkov.TheoryOfAuthomats\bin\Debug\Agarkov.TheoryOfAuthomats.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Agarkov.TheoryOfAuthomats\Agarkov.TheoryOfAuthomats\bin\Debug\Agarkov.TheoryOfAuthomats.exe
+c:\users\student\documents\visual studio 2015\Projects\Agarkov.TheoryOfAuthomats\Agarkov.TheoryOfAuthomats\bin\Debug\Agarkov.TheoryOfAuthomats.pdb
+c:\users\student\documents\visual studio 2015\Projects\Agarkov.TheoryOfAuthomats\Agarkov.TheoryOfAuthomats\obj\Debug\Agarkov.TheoryOfAuthomats.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Agarkov.TheoryOfAuthomats\Agarkov.TheoryOfAuthomats\obj\Debug\Agarkov.TheoryOfAuthomats.exe
+c:\users\student\documents\visual studio 2015\Projects\Agarkov.TheoryOfAuthomats\Agarkov.TheoryOfAuthomats\obj\Debug\Agarkov.TheoryOfAuthomats.pdb
